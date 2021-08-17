@@ -1,0 +1,12 @@
+Vereadores:
+
+Storm Trooper que bate a cabeça: 10001
+Jabba the Hutt: 10002 
+Luke Skywalker: 10003
+R2-D2: 10004
+
+Prefeitos: 
+
+Darth Vader e Darth Maul: 66
+
+Chewbacca e Obi-Wan Kenobi: 99
